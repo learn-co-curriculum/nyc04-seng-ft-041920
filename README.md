@@ -11,5 +11,6 @@
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
 | Hashketball Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/01-hashketball-review) | --- |
+| Intro to OO | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/02-intro-to-oo) | --- |
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
