@@ -15,7 +15,7 @@
 | One to many | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/03-one-to-many) | [video](https://youtu.be/mEQmg5-DCtI) |
 | Many to Many | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/04-many-to-many) | [video](https://youtu.be/GKjP6wb9NCY) |
 | Inheritance | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/05-inheritance) | [video](https://wework.zoom.com/rec/play/tMV-deyo_zI3GtXD4QSDCqB4W43pLKOshiIY_KUMzxm9UnMGZwGkZ7AaZ7fgV90n_BtU01rzUAcsugi_) |
-| Intro to SQL/ORMs | [SQL code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/06-intro-to-sql) / [ORM code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/07-intro-to-orms) | [video to come] |
+| Intro to SQL/ORMs | [SQL code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/06-intro-to-sql) / [ORM code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/07-intro-to-orms) | [video](https://wework.zoom.com/rec/share/3pJYNZLS_URIGqPKtk3zRo0LBo3jT6a82iIbrPdcnRpi1rDlUqtlet58SfBheTHy) |
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
