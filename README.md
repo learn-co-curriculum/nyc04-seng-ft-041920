@@ -10,7 +10,7 @@
 
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
-| Hashketball Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/01-hashketball-review) | --- |
+| Hashketball Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/01-hashketball-review) | [video](https://youtu.be/PZESenUA1y4) |
 | Intro to OO | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/02-intro-to-oo) | [video](https://youtu.be/sP5ZyRd3K68) |
 | One to many | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/03-one-to-many) | [video](https://youtu.be/mEQmg5-DCtI) |
 | Many to Many | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/04-many-to-many) | [video](https://youtu.be/GKjP6wb9NCY) |
