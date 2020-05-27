@@ -17,7 +17,9 @@
 | Inheritance | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/05-inheritance) | [video](https://wework.zoom.com/rec/play/tMV-deyo_zI3GtXD4QSDCqB4W43pLKOshiIY_KUMzxm9UnMGZwGkZ7AaZ7fgV90n_BtU01rzUAcsugi_) |
 | Intro to SQL/ORMs | [SQL code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/06-intro-to-sql) / [ORM code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/07-intro-to-orms) | [video](https://wework.zoom.com/rec/share/3pJYNZLS_URIGqPKtk3zRo0LBo3jT6a82iIbrPdcnRpi1rDlUqtlet58SfBheTHy) |
 | Intro to ActiveRecord | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/08-intro-to-activerecord) | [video](https://wework.zoom.com/rec/share/7ugsNJ3wykFObtLz0UP7cad_L7jhT6a81CRIqPENxEZD6Z-wzYnYYdkcRiTZV2dV) |
-
+| ActiveRecord Associations | [code](https://github.com/learn-co-students/nyc-dumbo-web-120919/tree/master/11-active-record-associations) | [video](https://www.youtube.com/watch?v=xrsuZqOxiRc) |
+| CLI Setup Pt 1| [code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/10-cli-project) | [video](https://wework.zoom.com/rec/share/wctxIY_eqkZORc-X8RnxfIIrA9zpeaa8gCdK8vtZmU3T8Pms0VXRmLeIgqqfVe_X?startTime=1584989425000) |
+| CLI Setup Pt 2| [code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/11-tty-prompt) | [video](https://wework.zoom.com/rec/share/3JNKcYDa3CRIGI3K0H3ef58oIb7paaa81yUc-aYKyk8_HqzE5-mnadO6w9rCA_PZ?startTime=1585064144000) |
 
 
 
