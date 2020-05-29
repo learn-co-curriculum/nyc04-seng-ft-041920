@@ -38,7 +38,7 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 
 | **Date** | **Blog Presenters**                                                        |
 | -------- | ---------------------------------------------------------------------------|
-| 06/02    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
+| 06/03    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
 | 06/04    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
 | 06/08    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
 | 06/09    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
