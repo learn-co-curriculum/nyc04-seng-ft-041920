@@ -42,17 +42,17 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 06/04    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
 | 06/08    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
 | 06/09    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
-
+| -------- | ---------------------------------------------------------------------------|
 | TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
 | TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
 | TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
 | TBD    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
-
+| -------- | ---------------------------------------------------------------------------|
 | TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
 | TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
 | TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
 | TBD    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
-
+| -------- | ---------------------------------------------------------------------------|
 | TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
 | TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
 | TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
