@@ -24,3 +24,36 @@
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
+
+## Blog Schedule
+
+Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](https://dev.to) and slack the link to your post to the group 15mins before your presentation. We make the blog schedule available here on your Learn.co dashboard so that you may **plan ahead**. It may happen that your SECs will PM you in slack with both **constructive feedback** to give you the opportunity to sharpen your presentation and idea sharing skills throughout the program. If you haven't received feedback and would like to get it, just ask!
+
+**Remember, blog presentations should be no longer than 5mins — after we allow 3mins for for questions.** If you're wondering why we blog, check out this [README](https://github.com/learn-co-curriculum/web-immersive-blogging).
+
+**Blog etiquette and other considerations**
+1. Follow each other on these platforms! 
+2. Clap/like the posts as much as possible for all your cohort mates! It takes 10 seconds and it goes a long way!
+3. If you've written a blog post, share it on LinkedIn and/or Twitter (you can use the hashtags #codeNewbies #100daysOfCode #devLife and tag @FlatironSchool). Take this opportunity to start building your online presence! 
+
+| **Date** | **Blog Presenters**                                                        |
+| -------- | ---------------------------------------------------------------------------|
+| 06/02    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
+| 06/04    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
+| 06/08    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
+| 06/09    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
+
+| TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
+| TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
+| TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
+| TBD    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
+
+| TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
+| TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
+| TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
+| TBD    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
+
+| TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
+| TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Kevin                                |
+| TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
+| TBD    | Ian, Time, Senada, Cristian, Stephen, Hyojin                       |
