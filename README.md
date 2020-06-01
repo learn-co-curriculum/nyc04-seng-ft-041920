@@ -30,7 +30,7 @@
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
 | Intro to the Internet | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/10-intro-to-the-internet) | [video]() |
-| Intro to Sinatra & MVC | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/11-intro-to-sinatra-and-mvc) | [video]() |
+| Intro to Sinatra & MVC | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/11-intro-to-sinatra-and-mvc) | [video](https://youtu.be/_hevLvRJPeI) |
 
 
 
