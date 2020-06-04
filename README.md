@@ -32,6 +32,7 @@
 | Intro to the Internet | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/10-intro-to-the-internet) | [video](https://youtu.be/qpfOp5MFJgw) |
 | Intro to Sinatra & MVC | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/11-intro-to-sinatra-and-mvc) | [video](https://youtu.be/_hevLvRJPeI) |
 | Sinatra CRUD | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/12-sinatra-crud) | [Part 1](https://youtu.be/5QThKEnGEi4) / [Part 2](https://youtu.be/V0_tP8q2x88) |
+| Sinatra Associations | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/13-sinatra-associations) | [Video](https://youtu.be/6xuGuC8_wRg) |
 
 
 
