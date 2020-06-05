@@ -21,8 +21,7 @@
 | CLI Setup Pt 1| [code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/10-cli-project) | [video](https://wework.zoom.com/rec/share/wctxIY_eqkZORc-X8RnxfIIrA9zpeaa8gCdK8vtZmU3T8Pms0VXRmLeIgqqfVe_X?startTime=1584989425000) |
 | CLI Setup Pt 2| [code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/11-tty-prompt) | [video](https://wework.zoom.com/rec/share/3JNKcYDa3CRIGI3K0H3ef58oIb7paaa81yUc-aYKyk8_HqzE5-mnadO6w9rCA_PZ?startTime=1585064144000) |
 | Hashes & the Internet | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/09-hashes-and-the-internet) | [video](https://youtu.be/2MUsvd2r_ao) |
-
-
+|Intro to Rails| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/14-intro-to-rails) |[video](https://youtu.be/rhSzb18ZP_E)|
 
 
 ### Mod 2
