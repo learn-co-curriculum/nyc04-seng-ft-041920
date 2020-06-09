@@ -32,7 +32,7 @@
 | Sinatra CRUD | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/12-sinatra-crud) | [Part 1](https://youtu.be/5QThKEnGEi4) / [Part 2](https://youtu.be/V0_tP8q2x88) |
 | Sinatra Associations | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/13-sinatra-associations) | [video](https://youtu.be/6xuGuC8_wRg) |
 |Intro to Rails| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/14-intro-to-rails) |[video](https://youtu.be/rhSzb18ZP_E)|
-|Rails Forms| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/15-rails-forms) |[video]()|
+|Rails Forms| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/15-rails-forms) |[Part 1](https://youtu.be/sy23uB4HHsE)|
 
 
 
