@@ -33,6 +33,8 @@
 | Sinatra Associations | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/13-sinatra-associations) | [video](https://youtu.be/6xuGuC8_wRg) |
 |Intro to Rails| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/14-intro-to-rails) |[video](https://youtu.be/rhSzb18ZP_E)|
 |Rails Forms| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/15-rails-forms) |[Part 1](https://youtu.be/sy23uB4HHsE)|
+|Rails Associations| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/16-rails-associations
+) |[Video](https://www.youtube.com/watch?v=ekxVIE-bVB8&feature=youtu.be)|
 
 
 
