@@ -35,7 +35,7 @@
 |Rails Forms| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/15-rails-forms) |[Part 1](https://youtu.be/sy23uB4HHsE) / [Part 2](https://youtu.be/1Rt2RBuLMLs)|
 |Rails Associations| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/16-rails-associations) |[video](https://www.youtube.com/watch?v=ekxVIE-bVB8&feature=youtu.be)|
 |Rails Validations| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/17-rails-validations) |[video](https://youtu.be/VJTIuRiKDXY)|
-|Intro to Git & GitHub| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/blob/master/18-intro-to-git/README.md)|video|
+|Intro to Git & GitHub| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/blob/master/18-intro-to-git/README.md)|[video](https://youtu.be/cj6ciouJbZM)|
 
 
 
