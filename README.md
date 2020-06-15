@@ -36,6 +36,8 @@
 |Rails Associations| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/16-rails-associations) |[video](https://www.youtube.com/watch?v=ekxVIE-bVB8&feature=youtu.be)|
 |Rails Validations| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/17-rails-validations) |[video](https://youtu.be/VJTIuRiKDXY)|
 |Intro to Git & GitHub| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/blob/master/18-intro-to-git/README.md)|[video](https://youtu.be/cj6ciouJbZM)|
+|Sessions & Cookies| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/19-sessions-cookies)|[video](https://youtu.be/dxy9kyRt93c)|
+
 
 
 
