@@ -42,6 +42,11 @@
 |Intro to HTML & CSS| [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/blob/master/20-intro-html-css/README.md)|video|
 
 
+### Mod 3
+
+| Topic        | Code           | Video  |
+| ------------- |:-------------:| -----:|
+| Intro to JS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/21-intro-to-js) | [video](https://wework.zoom.com/rec/play/7J14dbyp_2k3TNGWtwSDAfMtW47sKqms2nNN_fALnkqyASNWOlGnNbYQZevAvMxlIqP2lZORhU2MAGje) |
 
 
 
