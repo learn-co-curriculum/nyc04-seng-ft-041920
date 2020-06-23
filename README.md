@@ -48,7 +48,7 @@
 | ------------- |:-------------:| -----:|
 | Intro to JS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/21-intro-to-js) | [video](https://wework.zoom.com/rec/play/7J14dbyp_2k3TNGWtwSDAfMtW47sKqms2nNN_fALnkqyASNWOlGnNbYQZevAvMxlIqP2lZORhU2MAGje) |
 | Manipulating the DOM | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/22-dom-manipulation) | [video](https://wework.zoom.com/rec/play/uMYsd-yhr283SNGcswSDAvFxW425K6Os0CFN_aFYz02wViMFMwD1ZOcXZOUNi4ubU2CJc6_xyeQa4FUD) |
-
+| Event Handling | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/23-event-handling) | video to come |
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
