@@ -72,16 +72,16 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 06/09    | Ian, Senada, Cristian, Stephen, Hyojin                       |
 | -------- | ---------------------------------------------------------------------------|
 | 06/24    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
-| 06/25    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Akil                                |
-| 07/06    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
+| 06/25    | Jonny, Hannah, Anastasia, Elisheva, Akil                                |
+| 07/06    | Franchell, Marlon, Dell, Aleksa, Greem, Darren                   |
 | 07/07    | Ian, Senada, Cristian, Stephen, Hyojin                       |
 | -------- | ---------------------------------------------------------------------------|
 | TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
 | TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Akil                                |
-| TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
+| TBD    | Franchell, Dell, Aleksa, Greem, Darren                   |
 | TBD    | Ian, Senada, Cristian, Stephen, Hyojin                       |
 | -------- | ---------------------------------------------------------------------------|
 | TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
 | TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Akil                                |
-| TBD    | Franchell, Jefferson, Dell, Aleksa, Greem, Darren                   |
+| TBD    | Franchell, Dell, Aleksa, Greem, Darren                   |
 | TBD    | Ian, Senada, Cristian, Stephen, Hyojin                       |
