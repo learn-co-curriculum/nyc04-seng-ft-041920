@@ -50,7 +50,7 @@
 | Manipulating the DOM | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/22-dom-manipulation) | [video](https://wework.zoom.com/rec/play/uMYsd-yhr283SNGcswSDAvFxW425K6Os0CFN_aFYz02wViMFMwD1ZOcXZOUNi4ubU2CJc6_xyeQa4FUD) |
 | Event Handling | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/23-event-handling) | [video](https://wework.zoom.com/rec/play/7pB7JL-trj03EtbGtgSDU_V4W9ToLa2s1yIc8_ZfmhywVyMFYFLyY7UXYuLntKt1e5RroIlqg_ctCIDO) |
 | Event Delegation | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/24-event-delegation) | [video](https://wework.zoom.com/rec/play/vMUtcuCs_283TNKQtwSDB_coW426LP2s0SgW8vdcnUfjAHkGNwahbucXYbYIs9tlXCyOszxOdkyJp4YP) |
-
+| DOM Challenge | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/25-dom-challenge) | [video](https://wework.zoom.com/rec/play/u8UtcruoqTw3EtOXsQSDBfcvW43uJq6shika-PZYzknhVyMLYwCjN7MXM7Qr7e11eAbCBcyydl8_NATJ) |
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
