@@ -51,6 +51,8 @@
 | Event Handling | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/23-event-handling) | [video](https://wework.zoom.com/rec/play/7pB7JL-trj03EtbGtgSDU_V4W9ToLa2s1yIc8_ZfmhywVyMFYFLyY7UXYuLntKt1e5RroIlqg_ctCIDO) |
 | Event Delegation | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/24-event-delegation) | [video](https://wework.zoom.com/rec/play/vMUtcuCs_283TNKQtwSDB_coW426LP2s0SgW8vdcnUfjAHkGNwahbucXYbYIs9tlXCyOszxOdkyJp4YP) |
 | DOM Challenge | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/25-dom-challenge) | [video](https://wework.zoom.com/rec/play/u8UtcruoqTw3EtOXsQSDBfcvW43uJq6shika-PZYzknhVyMLYwCjN7MXM7Qr7e11eAbCBcyydl8_NATJ) |
+| Async JS & Fetch | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/26-async-js-and-fetch) | [video](https://wework.zoom.com/rec/play/u5Ikc7r-_2o3HYXAtwSDAvN5W9W4fK6s0XcXr_AMmE-9UHEHNVqiZ-QSYuUD6ETyk0arEsL0EXe8JQLq) |
+
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
