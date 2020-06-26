@@ -52,6 +52,8 @@
 | Event Delegation | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/24-event-delegation) | [video](https://wework.zoom.com/rec/play/vMUtcuCs_283TNKQtwSDB_coW426LP2s0SgW8vdcnUfjAHkGNwahbucXYbYIs9tlXCyOszxOdkyJp4YP) |
 | DOM Challenge | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/25-dom-challenge) | [video](https://wework.zoom.com/rec/play/u8UtcruoqTw3EtOXsQSDBfcvW43uJq6shika-PZYzknhVyMLYwCjN7MXM7Qr7e11eAbCBcyydl8_NATJ) |
 | Async JS & Fetch | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/26-async-js-and-fetch) | [part 1](https://wework.zoom.com/rec/play/u5Ikc7r-_2o3HYXAtwSDAvN5W9W4fK6s0XcXr_AMmE-9UHEHNVqiZ-QSYuUD6ETyk0arEsL0EXe8JQLq) / [part 2](https://wework.zoom.com/rec/play/vZZ7Jrr-r2g3H4aduQSDU6IrW466KaisgXMY_vMLnR23WiIFYVSgZbITY-JemEKvxo4UUTK-4Qikev7e) |
+| Toy Tale | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/27-toy-tale) | [video](https://wework.zoom.com/rec/play/tcAqdu_6_DI3GYKV5gSDUfBxW43sf66s1nUZ8qBezBm1VCUEYVbyZ-RHNLEAP7zbQ_vlc-OuBysu_iVb) |
+
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
