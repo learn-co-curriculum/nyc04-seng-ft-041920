@@ -54,6 +54,7 @@
 | Async JS & Fetch | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/26-async-js-and-fetch) | [part 1](https://wework.zoom.com/rec/play/u5Ikc7r-_2o3HYXAtwSDAvN5W9W4fK6s0XcXr_AMmE-9UHEHNVqiZ-QSYuUD6ETyk0arEsL0EXe8JQLq) / [part 2](https://wework.zoom.com/rec/play/vZZ7Jrr-r2g3H4aduQSDU6IrW466KaisgXMY_vMLnR23WiIFYVSgZbITY-JemEKvxo4UUTK-4Qikev7e) |
 | Toy Tale | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/27-toy-tale) | [video](https://wework.zoom.com/rec/play/tcAqdu_6_DI3GYKV5gSDUfBxW43sf66s1nUZ8qBezBm1VCUEYVbyZ-RHNLEAP7zbQ_vlc-OuBysu_iVb) |
 | Rails as an API | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/28-rails-api) | [video](https://wework.zoom.com/rec/play/vJd5I-_6-Go3HteS4gSDCqMsW9S7LKms13MW-6cPnU20UiFQYVD3b-cbZbcIBaBYhxsO95sQNJXDZPs6) |
+| Bake Off Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/29-bake-off-review) | [video](https://wework.zoom.com/rec/play/upIqc7isqTk3HtHG4wSDUPJ_W9S9La-s1nAd_Ppezx60UiYDNwCnZrsXNOSnAoKcXMIBM6d8nY9UoBSD) |
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
