@@ -56,7 +56,7 @@
 | Rails as an API | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/28-rails-api) | [video](https://wework.zoom.com/rec/play/vJd5I-_6-Go3HteS4gSDCqMsW9S7LKms13MW-6cPnU20UiFQYVD3b-cbZbcIBaBYhxsO95sQNJXDZPs6) |
 | Bake Off Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/29-bake-off-review) | [video](https://wework.zoom.com/rec/play/upIqc7isqTk3HtHG4wSDUPJ_W9S9La-s1nAd_Ppezx60UiYDNwCnZrsXNOSnAoKcXMIBM6d8nY9UoBSD) |
 | `this` and Execution Context | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/30-this-and-execution-context) | [video](https://wework.zoom.com/rec/play/7sAvc-6trmg3EtTG4gSDVPcvW466KK6s2nUZ-PAImkixWnkBYFbwb7ETYORRTBBhfoQkDuOMeehwe2xK) |
-
+| Prototypal Inheritance | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/31-prototypal-inheritance) | [video](https://wework.zoom.com/rec/play/up15dbysqjs3H9aT4wSDU_UoW464L6is1HUarPcMmRm0AXBWO1TwNOZBMeM20hdIiZ4H-3stDRBiYbxD) |
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
