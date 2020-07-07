@@ -55,6 +55,7 @@
 | Toy Tale | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/27-toy-tale) | [video](https://wework.zoom.com/rec/play/tcAqdu_6_DI3GYKV5gSDUfBxW43sf66s1nUZ8qBezBm1VCUEYVbyZ-RHNLEAP7zbQ_vlc-OuBysu_iVb) |
 | Rails as an API | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/28-rails-api) | [video](https://wework.zoom.com/rec/play/vJd5I-_6-Go3HteS4gSDCqMsW9S7LKms13MW-6cPnU20UiFQYVD3b-cbZbcIBaBYhxsO95sQNJXDZPs6) |
 | Bake Off Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/29-bake-off-review) | [video](https://wework.zoom.com/rec/play/upIqc7isqTk3HtHG4wSDUPJ_W9S9La-s1nAd_Ppezx60UiYDNwCnZrsXNOSnAoKcXMIBM6d8nY9UoBSD) |
+| `this` and Execution Context | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/30-this-and-execution-context) | [video](https://wework.zoom.com/rec/play/7sAvc-6trmg3EtTG4gSDVPcvW466KK6s2nUZ-PAImkixWnkBYFbwb7ETYORRTBBhfoQkDuOMeehwe2xK) |
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
