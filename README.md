@@ -58,6 +58,9 @@
 | `this` and Execution Context | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/30-this-and-execution-context) | [video](https://wework.zoom.com/rec/play/7sAvc-6trmg3EtTG4gSDVPcvW466KK6s2nUZ-PAImkixWnkBYFbwb7ETYORRTBBhfoQkDuOMeehwe2xK) |
 | Prototypal Inheritance | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/31-prototypal-inheritance) | [video](https://wework.zoom.com/rec/play/up15dbysqjs3H9aT4wSDU_UoW464L6is1HUarPcMmRm0AXBWO1TwNOZBMeM20hdIiZ4H-3stDRBiYbxD) |
 | Practical OOJS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/32-practical-oojs) | [video](https://wework.zoom.com/rec/play/tcF7JLqv-z43SdKW4wSDU6V7W9S1f62s0SQc8vIKzRngByJWOwLwM-QXYOMaV8ah7ZBtNn-0P2t9z-Ug) |
+| ES6 & Beyond | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/33-es6-and-beyond) | [video](https://wework.zoom.com/rec/play/v517dLz9rzI3GIXGtASDUaAqW9ToKfis1yYf_PpbzEi9BXUENgauYbdDMeuZHYGsam069HOI22J9DiHs) |
+
+
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
