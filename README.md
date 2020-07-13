@@ -65,7 +65,7 @@
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
 | Intro to React | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/34-intro-to-react) | [video](https://wework.zoom.com/rec/play/7pQqf7j7rjk3EoLB4wSDBKMvW464e6KshCAe8_sIn0rnB3YLYQDybuFEN-VH74xeds-6vpL9nOy2r9_T) |
-| JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/35-jsx-and-props) | video to come |
+| JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/35-jsx-and-props) | [video](https://wework.zoom.com/rec/play/vpN_dO2qqD43HYGcuASDVv94W429JvmshiIX-_UNn0yxVCYAMwWmMuMXZbExg2thZqHV6z_SfBIYnl-X) |
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
