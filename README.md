@@ -60,12 +60,15 @@
 | Practical OOJS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/32-practical-oojs) | [video](https://wework.zoom.com/rec/play/tcF7JLqv-z43SdKW4wSDU6V7W9S1f62s0SQc8vIKzRngByJWOwLwM-QXYOMaV8ah7ZBtNn-0P2t9z-Ug) |
 | ES6 & Beyond | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/33-es6-and-beyond) | [video](https://wework.zoom.com/rec/play/v517dLz9rzI3GIXGtASDUaAqW9ToKfis1yYf_PpbzEi9BXUENgauYbdDMeuZHYGsam069HOI22J9DiHs) |
 
-### Mod 3
+### Mod 4
 
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
 | Intro to React | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/34-intro-to-react) | [video](https://wework.zoom.com/rec/play/7pQqf7j7rjk3EoLB4wSDBKMvW464e6KshCAe8_sIn0rnB3YLYQDybuFEN-VH74xeds-6vpL9nOy2r9_T) |
 | JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/35-jsx-and-props) | [video](https://wework.zoom.com/rec/play/vpN_dO2qqD43HYGcuASDVv94W429JvmshiIX-_UNn0yxVCYAMwWmMuMXZbExg2thZqHV6z_SfBIYnl-X) |
+| State and Events | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/36-state-and-events) | [video](https://youtu.be/ZKrKqqmW0To) |
+| React Fundamentals Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/37-react-fundamentals-review) | [video](https://youtu.be/Q8CCN43JXCY) |
+
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
