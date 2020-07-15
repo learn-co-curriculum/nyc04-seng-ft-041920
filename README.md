@@ -68,7 +68,7 @@
 | JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/35-jsx-and-props) | [video](https://wework.zoom.com/rec/play/vpN_dO2qqD43HYGcuASDVv94W429JvmshiIX-_UNn0yxVCYAMwWmMuMXZbExg2thZqHV6z_SfBIYnl-X) |
 | State and Events | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/36-state-and-events) | [video](https://youtu.be/ZKrKqqmW0To) |
 | React Fundamentals Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/37-react-fundamentals-review) | [video](https://youtu.be/Q8CCN43JXCY) |
-
+| Forms, State and Inverse Data Flow | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/38-forms) | [video](https://youtu.be/1Nub9c0k58M) |
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
