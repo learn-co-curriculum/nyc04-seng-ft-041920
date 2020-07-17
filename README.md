@@ -71,6 +71,9 @@
 | Forms, State and Inverse Data Flow | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/38-forms) | [video](https://youtu.be/1Nub9c0k58M) |
 | Lifecycle Methods | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/39-lifecycle-methods) | [video](https://youtu.be/ALf1kAzso44) |
 | Hogwarts Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/40-hogwarts-review) | [video](https://youtu.be/keGhpSm4itY) |
+| Pokemon Search Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-practice-challenge-review) | [video](https://youtu.be/pkgS184jeFg) |
+
+
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
