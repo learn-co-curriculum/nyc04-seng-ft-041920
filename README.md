@@ -102,8 +102,8 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | -------- | ---------------------------------------------------------------------------|
 | 07/14   | Bashir, Dina, Kevin, Felix                  |
 | 07/15   | Jonny, Hannah, Anastasia, Elisheva, Akil, Greem, Amer, Leonora                                |
-| 07/20    | Franchell, Dell, Aleksa, Greem, Darren, Marlon                   |
-| 07/23    | Ian, Senada, Cristian, Stephen, Hyojin                       |
+| 07/20    | Aleksa, Greem, Marlon                   |
+| 07/23    | Franchell, Dell, Ian, Senada, Cristian, Stephen, Hyojin, Darren                       |
 | -------- | ---------------------------------------------------------------------------|
 | TBD    | Bashir, Dina, Amer, Kevin, Leonora, Felix                  |
 | TBD    | Jonny, Hannah, Marlon, Anastasia, Elisheva, Akil                                |
