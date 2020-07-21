@@ -73,7 +73,7 @@
 | Hogwarts Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/40-hogwarts-review) | [video](https://youtu.be/keGhpSm4itY) |
 | Pokemon Search Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-practice-challenge-review) | [video](https://youtu.be/pkgS184jeFg) |
 | Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-mock-code-challenge-review) | [video](https://youtu.be/rw4sjlCtYoM) |
-
+| React Best Practices | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/42-react-best-practices) | [video](https://youtu.be/4SC57RLYees) |
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
