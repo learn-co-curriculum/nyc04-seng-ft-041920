@@ -72,7 +72,7 @@
 | Lifecycle Methods | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/39-lifecycle-methods) | [video](https://youtu.be/ALf1kAzso44) |
 | Hogwarts Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/40-hogwarts-review) | [video](https://youtu.be/keGhpSm4itY) |
 | Pokemon Search Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-practice-challenge-review) | [video](https://youtu.be/pkgS184jeFg) |
-| Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-mock-code-challenge-review) | [video](https://youtu.be/rw4sjlCtYoM) |
+| Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-mock-code-challenge-review) | [part 1](https://youtu.be/rw4sjlCtYoM) / [part 2](https://youtu.be/D2HownasOK4) |
 | React Best Practices | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/42-react-best-practices) | [video](https://youtu.be/4SC57RLYees) |
 
 
