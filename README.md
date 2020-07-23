@@ -74,7 +74,7 @@
 | Pokemon Search Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-practice-challenge-review) | [video](https://youtu.be/pkgS184jeFg) |
 | Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-mock-code-challenge-review) | [part 1](https://youtu.be/rw4sjlCtYoM) / [part 2](https://youtu.be/D2HownasOK4) |
 | React Best Practices | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/42-react-best-practices) | [video](https://youtu.be/4SC57RLYees) |
-
+| React Router | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/43-react-router) | [video](https://youtu.be/q9UeIgAzhzw) |
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
