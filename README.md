@@ -50,21 +50,21 @@
 | Manipulating the DOM | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/22-dom-manipulation) | [video](https://youtu.be/W_CovruAy1U) |
 | Event Handling | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/23-event-handling) | [video](https://youtu.be/S4_YnTk8QCU) |
 | Event Delegation | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/24-event-delegation) | [video](https://youtu.be/h3yMOTpYVLo) |
-| DOM Challenge | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/25-dom-challenge) | [video](https://wework.zoom.com/rec/play/u8UtcruoqTw3EtOXsQSDBfcvW43uJq6shika-PZYzknhVyMLYwCjN7MXM7Qr7e11eAbCBcyydl8_NATJ) |
-| Async JS & Fetch | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/26-async-js-and-fetch) | [part 1](https://wework.zoom.com/rec/play/u5Ikc7r-_2o3HYXAtwSDAvN5W9W4fK6s0XcXr_AMmE-9UHEHNVqiZ-QSYuUD6ETyk0arEsL0EXe8JQLq) / [part 2](https://wework.zoom.com/rec/play/vZZ7Jrr-r2g3H4aduQSDU6IrW466KaisgXMY_vMLnR23WiIFYVSgZbITY-JemEKvxo4UUTK-4Qikev7e) |
-| Toy Tale | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/27-toy-tale) | [video](https://wework.zoom.com/rec/play/tcAqdu_6_DI3GYKV5gSDUfBxW43sf66s1nUZ8qBezBm1VCUEYVbyZ-RHNLEAP7zbQ_vlc-OuBysu_iVb) |
+| DOM Challenge | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/25-dom-challenge) | [video](https://youtu.be/xK2uje6MlMw) |
+| Async JS & Fetch | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/26-async-js-and-fetch) | [part 1](https://youtu.be/VyMjfa5t_-I) / [part 2](https://youtu.be/M3xxd1_cd1c) |
+| Toy Tale | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/27-toy-tale) | [video](https://youtu.be/hAJJmu4Nuig) |
 | Rails as an API | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/28-rails-api) | [video](https://youtu.be/eLOV5Si4CqA) |
-| Bake Off Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/29-bake-off-review) | [video](https://wework.zoom.com/rec/play/upIqc7isqTk3HtHG4wSDUPJ_W9S9La-s1nAd_Ppezx60UiYDNwCnZrsXNOSnAoKcXMIBM6d8nY9UoBSD) |
-| `this` and Execution Context | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/30-this-and-execution-context) | [video](https://wework.zoom.com/rec/play/7sAvc-6trmg3EtTG4gSDVPcvW466KK6s2nUZ-PAImkixWnkBYFbwb7ETYORRTBBhfoQkDuOMeehwe2xK) |
-| Prototypal Inheritance | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/31-prototypal-inheritance) | [video](https://wework.zoom.com/rec/play/up15dbysqjs3H9aT4wSDU_UoW464L6is1HUarPcMmRm0AXBWO1TwNOZBMeM20hdIiZ4H-3stDRBiYbxD) |
-| Practical OOJS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/32-practical-oojs) | [video](https://wework.zoom.com/rec/play/tcF7JLqv-z43SdKW4wSDU6V7W9S1f62s0SQc8vIKzRngByJWOwLwM-QXYOMaV8ah7ZBtNn-0P2t9z-Ug) |
-| ES6 & Beyond | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/33-es6-and-beyond) | [video](https://wework.zoom.com/rec/play/v517dLz9rzI3GIXGtASDUaAqW9ToKfis1yYf_PpbzEi9BXUENgauYbdDMeuZHYGsam069HOI22J9DiHs) |
+| Bake Off Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/29-bake-off-review) | [video](https://youtu.be/kaYXqBCZt4Y) |
+| `this` and Execution Context | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/30-this-and-execution-context) | [video](https://youtu.be/Inq0NUVPeGc) |
+| Prototypal Inheritance | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/31-prototypal-inheritance) | [video](https://youtu.be/zobaav99JV8) |
+| Practical OOJS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/32-practical-oojs) | [video](https://youtu.be/MLkuFytBM1A) |
+| ES6 & Beyond | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/33-es6-and-beyond) | [video](https://youtu.be/Dvh-7p6MLPA) |
 
 ### Mod 4
 
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
-| Intro to React | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/34-intro-to-react) | [video](https://wework.zoom.com/rec/play/7pQqf7j7rjk3EoLB4wSDBKMvW464e6KshCAe8_sIn0rnB3YLYQDybuFEN-VH74xeds-6vpL9nOy2r9_T) |
+| Intro to React | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/34-intro-to-react) | [video](https://youtu.be/6ejV0QbUaug) |
 | JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/35-jsx-and-props) | [video](https://youtu.be/nAl9R8lTroY) |
 | State and Events | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/36-state-and-events) | [video](https://youtu.be/ZKrKqqmW0To) |
 | React Fundamentals Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/37-react-fundamentals-review) | [video](https://youtu.be/Q8CCN43JXCY) |
