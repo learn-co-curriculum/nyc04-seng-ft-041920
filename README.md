@@ -46,10 +46,10 @@
 
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
-| Intro to JS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/21-intro-to-js) | [video](https://wework.zoom.com/rec/play/7J14dbyp_2k3TNGWtwSDAfMtW47sKqms2nNN_fALnkqyASNWOlGnNbYQZevAvMxlIqP2lZORhU2MAGje) |
-| Manipulating the DOM | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/22-dom-manipulation) | [video](https://wework.zoom.com/rec/play/uMYsd-yhr283SNGcswSDAvFxW425K6Os0CFN_aFYz02wViMFMwD1ZOcXZOUNi4ubU2CJc6_xyeQa4FUD) |
-| Event Handling | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/23-event-handling) | [video](https://wework.zoom.com/rec/play/7pB7JL-trj03EtbGtgSDU_V4W9ToLa2s1yIc8_ZfmhywVyMFYFLyY7UXYuLntKt1e5RroIlqg_ctCIDO) |
-| Event Delegation | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/24-event-delegation) | [video](https://wework.zoom.com/rec/play/vMUtcuCs_283TNKQtwSDB_coW426LP2s0SgW8vdcnUfjAHkGNwahbucXYbYIs9tlXCyOszxOdkyJp4YP) |
+| Intro to JS | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/21-intro-to-js) | [video](https://youtu.be/HbPpPfR_lCY) |
+| Manipulating the DOM | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/22-dom-manipulation) | [video](https://youtu.be/W_CovruAy1U) |
+| Event Handling | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/23-event-handling) | [video](https://youtu.be/S4_YnTk8QCU) |
+| Event Delegation | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/24-event-delegation) | [video](https://youtu.be/h3yMOTpYVLo) |
 | DOM Challenge | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/25-dom-challenge) | [video](https://wework.zoom.com/rec/play/u8UtcruoqTw3EtOXsQSDBfcvW43uJq6shika-PZYzknhVyMLYwCjN7MXM7Qr7e11eAbCBcyydl8_NATJ) |
 | Async JS & Fetch | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/26-async-js-and-fetch) | [part 1](https://wework.zoom.com/rec/play/u5Ikc7r-_2o3HYXAtwSDAvN5W9W4fK6s0XcXr_AMmE-9UHEHNVqiZ-QSYuUD6ETyk0arEsL0EXe8JQLq) / [part 2](https://wework.zoom.com/rec/play/vZZ7Jrr-r2g3H4aduQSDU6IrW466KaisgXMY_vMLnR23WiIFYVSgZbITY-JemEKvxo4UUTK-4Qikev7e) |
 | Toy Tale | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/27-toy-tale) | [video](https://wework.zoom.com/rec/play/tcAqdu_6_DI3GYKV5gSDUfBxW43sf66s1nUZ8qBezBm1VCUEYVbyZ-RHNLEAP7zbQ_vlc-OuBysu_iVb) |
@@ -65,7 +65,7 @@
 | Topic        | Code           | Video  |
 | ------------- |:-------------:| -----:|
 | Intro to React | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/34-intro-to-react) | [video](https://wework.zoom.com/rec/play/7pQqf7j7rjk3EoLB4wSDBKMvW464e6KshCAe8_sIn0rnB3YLYQDybuFEN-VH74xeds-6vpL9nOy2r9_T) |
-| JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/35-jsx-and-props) | [video](https://wework.zoom.com/rec/play/vpN_dO2qqD43HYGcuASDVv94W429JvmshiIX-_UNn0yxVCYAMwWmMuMXZbExg2thZqHV6z_SfBIYnl-X) |
+| JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/35-jsx-and-props) | [video](https://youtu.be/nAl9R8lTroY) |
 | State and Events | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/36-state-and-events) | [video](https://youtu.be/ZKrKqqmW0To) |
 | React Fundamentals Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/37-react-fundamentals-review) | [video](https://youtu.be/Q8CCN43JXCY) |
 | Forms, State and Inverse Data Flow | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/38-forms) | [video](https://youtu.be/1Nub9c0k58M) |
