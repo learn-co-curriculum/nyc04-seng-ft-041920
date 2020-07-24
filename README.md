@@ -75,6 +75,7 @@
 | Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/41-mock-code-challenge-review) | [part 1](https://youtu.be/rw4sjlCtYoM) / [part 2](https://youtu.be/D2HownasOK4) |
 | React Best Practices | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/42-react-best-practices) | [video](https://youtu.be/4SC57RLYees) |
 | React Router | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/43-react-router) | [video](https://youtu.be/q9UeIgAzhzw) |
+| React & Rails Auth | [code + videos](https://github.com/ihollander/rails-react-auth-lecture) | | 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
 
