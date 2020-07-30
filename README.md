@@ -77,6 +77,7 @@
 | React Router | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/43-react-router) | [video](https://youtu.be/q9UeIgAzhzw) |
 | React & Rails Auth | [code + videos](https://github.com/ihollander/rails-react-auth-lecture) | | 
 | React Hooks | [code](https://github.com/learn-co-students/nyc04-seng-ft-041920/tree/master/45-react-hooks) | [video](https://youtu.be/ODZwkgjWl74) |
+| Redux | [code + videos](https://github.com/ihollander/redux-lectures) | | 
 
 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-041920/) from all lectures.)
